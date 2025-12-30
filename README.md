@@ -1,2 +1,2 @@
 # Laravel-
-My prject of Laravel
+My project of Laravel
